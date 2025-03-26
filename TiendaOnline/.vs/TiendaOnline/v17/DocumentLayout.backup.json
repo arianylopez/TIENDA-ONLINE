@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB TAREAS\\PROGRAMACION 2\\TiendaOnline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84EC28F1-E8C2-4329-93F2-32EFBBDCD607}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb tareas\\programacion 2\\tiendaonline\\tiendaonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EC28F1-E8C2-4329-93F2-32EFBBDCD607}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EC28F1-E8C2-4329-93F2-32EFBBDCD607}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb tareas\\programacion 2\\tiendaonline\\tiendaonline\\ventas\\gestorventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EC28F1-E8C2-4329-93F2-32EFBBDCD607}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\ventas\\gestorventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EC28F1-E8C2-4329-93F2-32EFBBDCD607}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb tareas\\programacion 2\\tiendaonline\\tiendaonline\\inventario\\gestorinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EC28F1-E8C2-4329-93F2-32EFBBDCD607}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\inventario\\gestorinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EC28F1-E8C2-4329-93F2-32EFBBDCD607}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb tareas\\programacion 2\\tiendaonline\\tiendaonline\\gestionusuario\\gestorusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EC28F1-E8C2-4329-93F2-32EFBBDCD607}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\gestionusuario\\gestorusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EC28F1-E8C2-4329-93F2-32EFBBDCD607}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb tareas\\programacion 2\\tiendaonline\\tiendaonline\\gestionusuario\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EC28F1-E8C2-4329-93F2-32EFBBDCD607}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\gestionusuario\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EC28F1-E8C2-4329-93F2-32EFBBDCD607}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb tareas\\programacion 2\\tiendaonline\\tiendaonline\\pagos\\gestorpagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EC28F1-E8C2-4329-93F2-32EFBBDCD607}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\pagos\\gestorpagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EC28F1-E8C2-4329-93F2-32EFBBDCD607}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb tareas\\programacion 2\\tiendaonline\\tiendaonline\\inventario\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EC28F1-E8C2-4329-93F2-32EFBBDCD607}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\inventario\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EC28F1-E8C2-4329-93F2-32EFBBDCD607}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb tareas\\programacion 2\\tiendaonline\\tiendaonline\\gestionusuario\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EC28F1-E8C2-4329-93F2-32EFBBDCD607}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\gestionusuario\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GestorUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB TAREAS\\PROGRAMACION 2\\TiendaOnline\\TiendaOnline\\GestionUsuario\\GestorUsuarios.cs",
+              "RelativeDocumentMoniker": "TiendaOnline\\GestionUsuario\\GestorUsuarios.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB TAREAS\\PROGRAMACION 2\\TiendaOnline\\TiendaOnline\\GestionUsuario\\GestorUsuarios.cs",
+              "RelativeToolTip": "TiendaOnline\\GestionUsuario\\GestorUsuarios.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAmwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T13:58:19.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB TAREAS\\PROGRAMACION 2\\TiendaOnline\\TiendaOnline\\Program.cs",
+              "RelativeDocumentMoniker": "TiendaOnline\\Program.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB TAREAS\\PROGRAMACION 2\\TiendaOnline\\TiendaOnline\\Program.cs",
+              "RelativeToolTip": "TiendaOnline\\Program.cs",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAUwPwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T04:00:52.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestorVentas.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB TAREAS\\PROGRAMACION 2\\TiendaOnline\\TiendaOnline\\Ventas\\GestorVentas.cs",
+              "RelativeDocumentMoniker": "TiendaOnline\\Ventas\\GestorVentas.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB TAREAS\\PROGRAMACION 2\\TiendaOnline\\TiendaOnline\\Ventas\\GestorVentas.cs",
+              "RelativeToolTip": "TiendaOnline\\Ventas\\GestorVentas.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwEYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T13:46:24.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB TAREAS\\PROGRAMACION 2\\TiendaOnline\\TiendaOnline\\GestionUsuario\\Cliente.cs",
+              "RelativeDocumentMoniker": "TiendaOnline\\GestionUsuario\\Cliente.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB TAREAS\\PROGRAMACION 2\\TiendaOnline\\TiendaOnline\\GestionUsuario\\Cliente.cs",
+              "RelativeToolTip": "TiendaOnline\\GestionUsuario\\Cliente.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T13:59:12.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GestorPagos.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB TAREAS\\PROGRAMACION 2\\TiendaOnline\\TiendaOnline\\Pagos\\GestorPagos.cs",
+              "RelativeDocumentMoniker": "TiendaOnline\\Pagos\\GestorPagos.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB TAREAS\\PROGRAMACION 2\\TiendaOnline\\TiendaOnline\\Pagos\\GestorPagos.cs",
+              "RelativeToolTip": "TiendaOnline\\Pagos\\GestorPagos.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwCMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T13:40:19.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestorInventario.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB TAREAS\\PROGRAMACION 2\\TiendaOnline\\TiendaOnline\\Inventario\\GestorInventario.cs",
+              "RelativeDocumentMoniker": "TiendaOnline\\Inventario\\GestorInventario.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB TAREAS\\PROGRAMACION 2\\TiendaOnline\\TiendaOnline\\Inventario\\GestorInventario.cs",
+              "RelativeToolTip": "TiendaOnline\\Inventario\\GestorInventario.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAuwLUAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T13:10:38.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB TAREAS\\PROGRAMACION 2\\TiendaOnline\\TiendaOnline\\Inventario\\Categoria.cs",
+              "RelativeDocumentMoniker": "TiendaOnline\\Inventario\\Categoria.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB TAREAS\\PROGRAMACION 2\\TiendaOnline\\TiendaOnline\\Inventario\\Categoria.cs",
+              "RelativeToolTip": "TiendaOnline\\Inventario\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:13:22.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB TAREAS\\PROGRAMACION 2\\TiendaOnline\\TiendaOnline\\GestionUsuario\\Usuario.cs",
+              "RelativeDocumentMoniker": "TiendaOnline\\GestionUsuario\\Usuario.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB TAREAS\\PROGRAMACION 2\\TiendaOnline\\TiendaOnline\\GestionUsuario\\Usuario.cs",
+              "RelativeToolTip": "TiendaOnline\\GestionUsuario\\Usuario.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T03:49:36.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
